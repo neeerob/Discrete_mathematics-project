@@ -1,10 +1,3 @@
-//
-//  main.cpp
-//  floor_and_ceiling
-//
-//  Created by Nirob Ahmed on 11/6/20.
-//  Copyright © 2020 Nirob Ahmed. All rights reserved.
-//
 
 #include <iostream>
 using namespace std;
